@@ -8,16 +8,30 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
+// class Solution {
+//     public int getDecimalValue(ListNode head) {
+//         String str = "";
+
+//         ListNode temp = head;
+//         while(temp!=null){
+//             str += temp.val;
+//             temp = temp.next;
+//         }
+
+//         return Integer.parseInt(str,2);
+//     }
+// }
+
 class Solution {
     public int getDecimalValue(ListNode head) {
-        String str = "";
+        int ans = 0;
 
         ListNode temp = head;
         while(temp!=null){
-            str += temp.val;
+            ans = ans * 2 + temp.val;
             temp = temp.next;
         }
 
-        return Integer.parseInt(str,2);
+        return ans;
     }
 }

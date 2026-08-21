@@ -10,43 +10,23 @@
  * }
  */
 public class Solution {
-    public int lengthCycle(ListNode node){
-        ListNode fast = node;
-        ListNode slow = node;
-
-        while(fast != null && fast.next != null){
-            fast = fast.next.next;
-            slow = slow.next;
-
-            if(fast == slow){
-                // find length;
-
-                int length = 0;
-                ListNode temp = slow;
-
-                do{
-                    temp = temp.next;
-                    length++;
-                }while(temp != slow);
-                return length;
-            }
-        }
-        return 0;
-    }
     public ListNode detectCycle(ListNode head) {
-        
         ListNode fast = head;
         ListNode slow = head;
 
         int length = 0;
 
         while(fast != null && fast.next != null){
-            fast = fast.next.next;
             slow = slow.next;
+            fast = fast.next.next;
 
             if(fast == slow){
-                length = lengthCycle(slow);
-                break;
+                ListNode temp = slow;
+                do{
+                    temp = temp.next;
+                    length++;
+                }while(temp != slow);
+                break;  // if cycle exist then fast will never come to the end and it will not quit the loop
             }
         }
 
@@ -55,18 +35,16 @@ public class Solution {
         ListNode f = head;
         ListNode s = head;
 
-        // move pointer s where fast and slow met eachother
         while(length > 0){
             s = s.next;
             length--;
         }
 
-        // keep movinf f from head(start) and s from fast pointer and where ever they 
-        // meet will be the start point
-        while(f != s){
+        while(f!=s){
             f = f.next;
             s = s.next;
         }
+
         return s;
     }
 }

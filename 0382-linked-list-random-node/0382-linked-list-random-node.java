@@ -8,24 +8,60 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
+
+ // Reservoir sampling --> O(1) extra space
 class Solution {
-    ArrayList<Integer> list = new ArrayList<>();
+    ListNode head;
     Random random = new Random();
 
     public Solution(ListNode head) {
-        ListNode temp = head;
-
-        while(temp != null) {
-            list.add(temp.val);
-            temp = temp.next;
-        }   
+        this.head = head;
     }
     
     public int getRandom() {
-        int index = random.nextInt(list.size());
-        return list.get(index);
+        ListNode curr = head;
+
+        int ans = curr.val;
+        int count = 1;
+
+        curr = curr.next;
+
+        while(curr != null){
+
+            count++;
+
+            //pick current node with probability 1/count
+            if(random.nextInt(count) == 0){
+                ans = curr.val;
+            }
+
+            curr = curr.next;
+
+        }
+
+        return ans;
     }
 }
+
+// class Solution {
+//     ArrayList<Integer> list = new ArrayList<>();
+//     Random random = new Random();
+
+//     public Solution(ListNode head) {
+//         ListNode temp = head;
+
+//         while(temp != null) {
+//             list.add(temp.val);
+//             temp = temp.next;
+//         }   
+//     }
+    
+//     public int getRandom() {
+//         int index = random.nextInt(list.size());
+//         return list.get(index);
+//     }
+// }
+
 
 /**
  * Your Solution object will be instantiated and called as such:

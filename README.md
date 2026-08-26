@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Annshul268/Leetcode/tree/master/0143-reorder-list) |
+| [0232-implement-queue-using-stacks](https://github.com/Annshul268/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Annshul268/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Reservoir Sampling
 |  |
@@ -121,4 +122,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/Annshul268/Leetcode/tree/master/0382-linked-list-random-node) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Annshul268/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Annshul268/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->

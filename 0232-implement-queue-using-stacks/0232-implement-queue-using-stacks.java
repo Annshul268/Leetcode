@@ -8,8 +8,8 @@ class MyQueue {
     }
     
     public void push(int x) {
+        size++;
         if(st.isEmpty()){
-            size++;
             st.push(x);
             return;
         }
@@ -25,12 +25,10 @@ class MyQueue {
             int curr = helper.pop();
             st.push(curr);
         }
-
-        size++;
     }
     
     public int pop() {
-        size--;
+        // size--;
         return st.pop();
     }
     

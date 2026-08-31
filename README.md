@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/Annshul268/Leetcode/tree/master/0242-valid-anagram) |
 | [0763-partition-labels](https://github.com/Annshul268/Leetcode/tree/master/0763-partition-labels) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Annshul268/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Annshul268/Leetcode-Questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0232-implement-queue-using-stacks](https://github.com/Annshul268/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Annshul268/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Annshul268/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Annshul268/Leetcode-Questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Reservoir Sampling
 |  |
 | ------- |

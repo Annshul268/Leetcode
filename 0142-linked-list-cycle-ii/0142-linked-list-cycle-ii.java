@@ -17,16 +17,16 @@ public class Solution {
         int length = 0;
 
         while(fast != null && fast.next != null){
-            slow = slow.next;
             fast = fast.next.next;
+            slow = slow.next;
 
             if(fast == slow){
                 ListNode temp = slow;
                 do{
-                    temp = temp.next;
                     length++;
+                    temp = temp.next;
                 }while(temp != slow);
-                break;  // if cycle exist then fast will never come to the end and it will not quit the loop
+                break;
             }
         }
 
@@ -40,11 +40,11 @@ public class Solution {
             length--;
         }
 
-        while(f!=s){
+        while(f != s){
             f = f.next;
             s = s.next;
         }
 
-        return s;
+        return f;
     }
 }

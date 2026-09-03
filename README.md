@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0055-jump-game](https://github.com/Annshul268/Leetcode-Questions/tree/master/0055-jump-game) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Annshul268/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0455-assign-cookies](https://github.com/Annshul268/Leetcode-Questions/tree/master/0455-assign-cookies) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/Annshul268/Leetcode-Questions/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Two Pointers
 |  |
 | ------- |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0234-palindrome-linked-list](https://github.com/Annshul268/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Annshul268/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Annshul268/Leetcode-Questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/Annshul268/Leetcode-Questions/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Reservoir Sampling
 |  |
 | ------- |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0155-min-stack](https://github.com/Annshul268/Leetcode-Questions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Annshul268/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Annshul268/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/Annshul268/Leetcode-Questions/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Queue
 |  |
 | ------- |

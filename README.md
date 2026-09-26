@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0055-jump-game](https://github.com/Annshul268/Leetcode-Questions/tree/master/0055-jump-game) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Annshul268/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0189-rotate-array](https://github.com/Annshul268/Leetcode/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/Annshul268/Leetcode-Questions/tree/master/0455-assign-cookies) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Annshul268/Leetcode-Questions/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Two Pointers
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0143-reorder-list](https://github.com/Annshul268/Leetcode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Annshul268/Leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Annshul268/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/Annshul268/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Annshul268/Leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Annshul268/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/Annshul268/Leetcode-Questions/tree/master/0455-assign-cookies) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Annshul268/Leetcode/tree/master/0002-add-two-numbers) |
+| [0189-rotate-array](https://github.com/Annshul268/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Annshul268/Leetcode/tree/master/0202-happy-number) |
 | [0382-linked-list-random-node](https://github.com/Annshul268/Leetcode/tree/master/0382-linked-list-random-node) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Annshul268/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |

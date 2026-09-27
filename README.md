@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/Annshul268/Leetcode/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/Annshul268/Leetcode-Questions/tree/master/0455-assign-cookies) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Annshul268/Leetcode-Questions/tree/master/1381-design-a-stack-with-increment-operation) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Annshul268/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0763-partition-labels](https://github.com/Annshul268/Leetcode/tree/master/0763-partition-labels) |
 | [0876-middle-of-the-linked-list](https://github.com/Annshul268/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Annshul268/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Annshul268/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Greedy
 |  |
 | ------- |
@@ -191,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Annshul268/Leetcode/tree/master/0169-majority-element) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Annshul268/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->

@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Annshul268/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0054-spiral-matrix](https://github.com/Annshul268/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Annshul268/Leetcode-Questions/tree/master/0055-jump-game) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Annshul268/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0169-majority-element](https://github.com/Annshul268/Leetcode/tree/master/0169-majority-element) |
@@ -200,5 +201,10 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Annshul268/Leetcode/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Annshul268/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Annshul268/Leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->

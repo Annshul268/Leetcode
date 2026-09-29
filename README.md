@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0054-spiral-matrix](https://github.com/Annshul268/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Annshul268/Leetcode-Questions/tree/master/0055-jump-game) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Annshul268/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0118-pascals-triangle](https://github.com/Annshul268/Leetcode/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/Annshul268/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Annshul268/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Annshul268/Leetcode/tree/master/0268-missing-number) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Annshul268/Leetcode-Questions/tree/master/0055-jump-game) |
+| [0118-pascals-triangle](https://github.com/Annshul268/Leetcode/tree/master/0118-pascals-triangle) |
 ## Linked List
 |  |
 | ------- |

@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Annshul268/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/Annshul268/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Annshul268/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Annshul268/Leetcode-Questions/tree/master/0055-jump-game) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Annshul268/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Annshul268/Leetcode/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/Annshul268/Leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Annshul268/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Annshul268/Leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Annshul268/Leetcode/tree/master/0268-missing-number) |
@@ -210,5 +212,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Annshul268/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Annshul268/Leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->

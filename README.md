@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Annshul268/Leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Annshul268/Leetcode/tree/master/0022-generate-parentheses) |
 | [0242-valid-anagram](https://github.com/Annshul268/Leetcode/tree/master/0242-valid-anagram) |
 | [0394-decode-string](https://github.com/Annshul268/Leetcode-Questions/tree/master/0394-decode-string) |
 | [0763-partition-labels](https://github.com/Annshul268/Leetcode/tree/master/0763-partition-labels) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Annshul268/Leetcode/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/Annshul268/Leetcode-Questions/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/Annshul268/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Annshul268/Leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Annshul268/Leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Annshul268/Leetcode/tree/master/0022-generate-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Annshul268/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Binary Search
 |  |
@@ -214,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0048-rotate-image](https://github.com/Annshul268/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Annshul268/Leetcode/tree/master/0054-spiral-matrix) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Annshul268/Leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->

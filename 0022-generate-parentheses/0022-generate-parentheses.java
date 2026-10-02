@@ -7,23 +7,23 @@ class Solution {
 
         return ans;
     }
-    public void solve(StringBuilder sb, int left, int right, int n, List<String> ans){
+    public void solve(StringBuilder sb, int openingBracket, int closingBracket, int n, List<String> ans){
         if(sb.length() == 2*n){
             ans.add(sb.toString());
             return;
         }
 
         // Pick '('
-        if(left < n){
+        if(openingBracket < n){
             sb.append('(');
-            solve(sb,left+1,right,n,ans);
+            solve(sb,openingBracket+1,closingBracket,n,ans);
             sb.deleteCharAt(sb.length() - 1);
         }
 
         // Pick ')'
-        if(right < left){
+        if(closingBracket < openingBracket){
             sb.append(')');
-            solve(sb,left,right+1,n,ans);
+            solve(sb,openingBracket,closingBracket+1,n,ans);
             sb.deleteCharAt(sb.length() - 1);
         }
     }

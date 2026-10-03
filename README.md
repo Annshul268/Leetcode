@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/Annshul268/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Annshul268/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Annshul268/Leetcode-Questions/tree/master/0055-jump-game) |
+| [0073-set-matrix-zeroes](https://github.com/Annshul268/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Annshul268/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/Annshul268/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Annshul268/Leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Annshul268/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Annshul268/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Annshul268/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Annshul268/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0048-rotate-image](https://github.com/Annshul268/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Annshul268/Leetcode/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/Annshul268/Leetcode/tree/master/0073-set-matrix-zeroes) |
 ## Backtracking
 |  |
 | ------- |

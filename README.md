@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0054-spiral-matrix](https://github.com/Annshul268/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Annshul268/Leetcode-Questions/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/Annshul268/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/Annshul268/Leetcode/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Annshul268/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/Annshul268/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Annshul268/Leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Annshul268/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Annshul268/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Annshul268/Leetcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Annshul268/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Annshul268/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Annshul268/Leetcode/tree/master/0143-reorder-list) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Annshul268/Leetcode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Annshul268/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Annshul268/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Annshul268/Leetcode/tree/master/0242-valid-anagram) |
@@ -60,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Quicksort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Annshul268/Leetcode/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/Annshul268/Leetcode-Questions/tree/master/0455-assign-cookies) |
 ## Hash Table
 |  |
@@ -235,4 +239,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Annshul268/Leetcode/tree/master/0022-generate-parentheses) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Annshul268/Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->

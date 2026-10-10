@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0678-valid-parenthesis-string](https://github.com/Annshul268/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/Annshul268/Leetcode/tree/master/0763-partition-labels) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Annshul268/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Annshul268/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Sorting
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Annshul268/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Annshul268/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Annshul268/Leetcode-Questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Annshul268/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1021-remove-outermost-parentheses](https://github.com/Annshul268/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Annshul268/Leetcode-Questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Annshul268/Leetcode-Questions/tree/master/1381-design-a-stack-with-increment-operation) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Annshul268/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Reservoir Sampling
 |  |
 | ------- |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0856-score-of-parentheses](https://github.com/Annshul268/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Annshul268/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Annshul268/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Annshul268/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Binary Search
 |  |
 | ------- |

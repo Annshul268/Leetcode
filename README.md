@@ -281,4 +281,5 @@ A collection of LeetCode questions to ace the coding interview!
 | [0176-second-highest-salary](https://github.com/Annshul268/Leetcode/tree/master/0176-second-highest-salary) |
 | [0182-duplicate-emails](https://github.com/Annshul268/Leetcode/tree/master/0182-duplicate-emails) |
 | [0595-big-countries](https://github.com/Annshul268/Leetcode/tree/master/0595-big-countries) |
+| [0619-biggest-single-number](https://github.com/Annshul268/Leetcode/tree/master/0619-biggest-single-number) |
 <!---LeetCode Topics End-->

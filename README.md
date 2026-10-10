@@ -279,4 +279,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/Annshul268/Leetcode/tree/master/0176-second-highest-salary) |
+| [0595-big-countries](https://github.com/Annshul268/Leetcode/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->

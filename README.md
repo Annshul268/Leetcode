@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1381-design-a-stack-with-increment-operation](https://github.com/Annshul268/Leetcode-Questions/tree/master/1381-design-a-stack-with-increment-operation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Annshul268/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Annshul268/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Annshul268/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -286,4 +287,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [1693-daily-leads-and-partners](https://github.com/Annshul268/Leetcode/tree/master/1693-daily-leads-and-partners) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/Annshul268/Leetcode/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1890-the-latest-login-in-2020](https://github.com/Annshul268/Leetcode/tree/master/1890-the-latest-login-in-2020) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Annshul268/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->

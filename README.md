@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Annshul268/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Annshul268/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Annshul268/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Annshul268/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Annshul268/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sorting
 |  |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/Annshul268/Leetcode/tree/master/0268-missing-number) |
 | [0382-linked-list-random-node](https://github.com/Annshul268/Leetcode/tree/master/0382-linked-list-random-node) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Annshul268/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Annshul268/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Divide and Conquer
 |  |
 | ------- |

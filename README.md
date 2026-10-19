@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0455-assign-cookies](https://github.com/Annshul268/Leetcode-Questions/tree/master/0455-assign-cookies) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Annshul268/Leetcode-Questions/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Annshul268/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Annshul268/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Annshul268/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Annshul268/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Annshul268/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/Annshul268/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Annshul268/Leetcode/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/Annshul268/Leetcode-Questions/tree/master/0455-assign-cookies) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Annshul268/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Annshul268/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Annshul268/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Annshul268/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Annshul268/Leetcode/tree/master/0268-missing-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Annshul268/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Annshul268/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Bit Manipulation
 |  |

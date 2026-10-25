@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/Annshul268/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Annshul268/Leetcode/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Annshul268/Leetcode-Questions/tree/master/0455-assign-cookies) |
+| [1254-number-of-closed-islands](https://github.com/Annshul268/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Annshul268/Leetcode-Questions/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Annshul268/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Annshul268/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/Annshul268/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Annshul268/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Annshul268/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [1254-number-of-closed-islands](https://github.com/Annshul268/Leetcode/tree/master/1254-number-of-closed-islands) |
 ## Backtracking
 |  |
 | ------- |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Annshul268/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [1254-number-of-closed-islands](https://github.com/Annshul268/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Annshul268/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Heap (Priority Queue)
 |  |
@@ -349,4 +352,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Annshul268/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Depth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/Annshul268/Leetcode/tree/master/1254-number-of-closed-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/Annshul268/Leetcode/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->

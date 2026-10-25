@@ -1,36 +1,77 @@
 class Solution {
-    static int [] dr = {-1,1,0,0};
-    static int [] dc = {0,0,-1,1};
-    static int rowL;
-    static int colL;
-    public int closedIsland(int[][] grid) {
-        rowL=grid.length;
-        colL=grid[0].length;
-        for(int i =0;i<rowL;i++){
-            if(grid[i][0]==0) dfs(i,0,grid);
-            if(grid[i][colL-1]==0) dfs(i,colL-1,grid);
+    class Pair {
+        int row;
+        int col;
+
+        Pair(int row, int col) {
+            this.row = row;
+            this.col = col;
         }
-        for(int i=0;i<colL;i++){
-            if(grid[0][i]==0) dfs(0,i,grid);
-            if(grid[rowL-1][i]==0) dfs(rowL-1,i,grid);
+    }
+
+    int []rowDirection = {1,-1,0,0};
+    int []colDirection = {0,0,1,-1};
+
+    // Check for vaid neighbour
+    public boolean isValid(int newR ,int newC ,int n ,int m){
+        if(newR >= 0 && newR < n && newC >= 0 && newC < m){
+            return true;
         }
-        int ans =0;
-        for(int i =0;i<rowL;i++){
-            for(int j =0;j<colL;j++){
-                if(grid[i][j]==0){
-                    dfs(i,j,grid);
-                    ans++;
+        return false;
+    }
+
+    public boolean bfsTomakeBoundary(int [][]grid,boolean isVisited[][] ,int sr ,int sc ,int n ,int m){
+        Queue<Pair> q = new LinkedList<>();
+        
+        boolean isClosed = true;
+
+        q.add(new Pair(sr,sc));
+        isVisited[sr][sc] = true;
+
+        while(!q.isEmpty()){
+            Pair curr = q.poll();
+            int currR = curr.row;
+            int currC = curr.col;
+
+            // check for boundary case
+            if(currR == 0 || currR == n-1 || currC == 0 || currC == m-1){
+                isClosed = false;
+            }
+            // we can return this directly but we also 
+            // need to mark visited to all neighbour of curr and 
+            // if we return it will cause unmarked 1 which is connected to boundary 1
+
+            for(int i = 0 ; i < 4 ; i++){
+                int newR = currR + rowDirection[i];
+                int newC = currC + colDirection[i];
+
+                if(isValid(newR ,newC ,n ,m) && !isVisited[newR][newC] && grid[newR][newC] == 0){
+                    isVisited[newR][newC] = true;
+                    q.add(new Pair(newR,newC));
                 }
             }
         }
-        return ans ;
+        return isClosed;
     }
-    public static void dfs(int r, int c, int [][] grid){
-        if(r<0 || c<0 || r>=rowL || c>=colL || grid[r][c]==1) return ;
+    public int closedIsland(int[][] grid) {
+        int n = grid.length ; 
+        int m = grid[0].length ;
 
-        grid[r][c]=1;
-        for(int i=0;i<4;i++){
-            dfs(r+dr[i] , c+dc[i] , grid);
+        int countClosedIsland = 0;
+        boolean isVisited[][] = new boolean[n][m];
+
+        for(int i = 0 ; i < n ; i++){
+            for(int j = 0 ; j < m ; j++){
+                if(grid[i][j] == 0 && !isVisited[i][j]){
+                    
+                    if(bfsTomakeBoundary(grid ,isVisited ,i ,j ,n ,m)){
+                        countClosedIsland++;
+                    }
+                }
+            }
         }
+
+        return countClosedIsland;
+     
     }
 }
